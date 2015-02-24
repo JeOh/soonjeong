@@ -1,4 +1,6 @@
 test file for checking conflict
 
-haha i'm gonna change this line too.
-conflict should be occur
+<<<<<<< HEAD
+=======
+and something changed here
+>>>>>>> 546aa5567aa0ca724c0485dbd9d04a22477cfcf6
